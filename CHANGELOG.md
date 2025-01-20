@@ -1,22 +1,4 @@
-## v1.0.15 (patch)
-
-Changes since v1.0.14-pre.1:
-
-- Add scripts for automated metadata management and versioning ([@matt-edmondson](https://github.com/matt-edmondson))
-
-## v1.0.14-pre.1 (patch)
-
-Changes since v1.0.13:
-
-- Renamed metadata files ([@matt-edmondson](https://github.com/matt-edmondson))
-
-## v1.0.11 (patch)
-
-Changes since v1.0.10:
-
-- Replace LICENSE file with LICENSE.md and update copyright information ([@matt-edmondson](https://github.com/matt-edmondson))
-
-## v1.0.0 (major)
+## v1.0.0-pre.1 (major)
 
 Changes since 0.0.0.0:
 
@@ -28,6 +10,7 @@ Changes since 0.0.0.0:
 - Add more workarounds to support SameLine ([@Damon3000s](https://github.com/Damon3000s))
 - Add printing text relative to the current theme ([@matt-edmondson](https://github.com/matt-edmondson))
 - Add ScopedStyleVar class for scoped ImGui style management ([@matt-edmondson](https://github.com/matt-edmondson))
+- Add scripts for automated metadata management and versioning ([@matt-edmondson](https://github.com/matt-edmondson))
 - Add test project and try to fix colors not being correct ([@matt-edmondson](https://github.com/matt-edmondson))
 - Add text centering ([@matt-edmondson](https://github.com/matt-edmondson))
 - Add Text class with nested Color and ScopedTextColor ([@matt-edmondson](https://github.com/matt-edmondson))
@@ -40,7 +23,9 @@ Changes since 0.0.0.0:
 - Fix contrast ratio calculations ([@matt-edmondson](https://github.com/matt-edmondson))
 - Fix for accent colors not being used with scoped themes ([@matt-edmondson](https://github.com/matt-edmondson))
 - Fix for CenterWithin not working as expected ([@Damon3000s](https://github.com/Damon3000s))
+- Fix for ImGui asserts ([@Damon3000s](https://github.com/Damon3000s))
 - Fix header color being the same as the frame color making selected selectables indistinguishable ([@matt-edmondson](https://github.com/matt-edmondson))
+- Fix ImGui compile errors ([@Damon3000s](https://github.com/Damon3000s))
 - Fix some alignment math ([@matt-edmondson](https://github.com/matt-edmondson))
 - Initial commit ([@matt-edmondson](https://github.com/matt-edmondson))
 - Migrate ktsu.io to ktsu namespace ([@matt-edmondson](https://github.com/matt-edmondson))
@@ -49,6 +34,8 @@ Changes since 0.0.0.0:
 - Refactor Scoped Constructors in UI Classes ([@matt-edmondson](https://github.com/matt-edmondson))
 - Release version 1.0.0 ([@matt-edmondson](https://github.com/matt-edmondson))
 - Remove GlobalSuppressions.cs file ([@matt-edmondson](https://github.com/matt-edmondson))
+- Renamed metadata files ([@matt-edmondson](https://github.com/matt-edmondson))
+- Replace LICENSE file with LICENSE.md and update copyright information ([@matt-edmondson](https://github.com/matt-edmondson))
 - Reverted recent changes to why the Dummy widget is rendered ([@Damon3000s](https://github.com/Damon3000s))
 - Tweaked implementation ([@Damon3000s](https://github.com/Damon3000s))
 - Update build config ([@matt-edmondson](https://github.com/matt-edmondson))
@@ -62,6 +49,7 @@ Changes since 0.0.0.0:
 - Update nuget.config ([@matt-edmondson](https://github.com/matt-edmondson))
 - Update package references for ImGuiStyler and ImGuiStylerDemo projects ([@matt-edmondson](https://github.com/matt-edmondson))
 - Update README.md with detailed library overview ([@matt-edmondson](https://github.com/matt-edmondson))
+- Update the comments for CenterWithin to match the new logic ([@Damon3000s](https://github.com/Damon3000s))
 - Update VERSION ([@matt-edmondson](https://github.com/matt-edmondson))
 - Use the highest needed contrast ratio for text ([@matt-edmondson](https://github.com/matt-edmondson))
 
